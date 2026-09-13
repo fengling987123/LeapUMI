@@ -2,6 +2,7 @@
 
 Put your material in the paths below; the page will load it automatically.
 
+- `videos/leapumi.mp4`: overview video
 - `images/pipeline.png`: method flowchart
 - `images/overview.png`: image below the abstract
 - `images/collection-01.png` through `images/collection-03.png`: collection shots
